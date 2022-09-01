@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>861312967713-06t1krl7m87efs34djr834nu2hvp4vkl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<!--この下のcom.googleのコードをコピーして、info.pilistに貼り付ける!-->
+	<string>com.googleusercontent.apps.861312967713-06t1krl7m87efs34djr834nu2hvp4vkl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOdNQVaaHNm7pGW-lTAZq3ROJQ5aM148s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>861312967713</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.gooleSignApp</string>
+	<key>PROJECT_ID</key>
+	<string>sing-sample</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sing-sample.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:861312967713:ios:720d4e99724abe2f28ef60</string>
+</dict>
+</plist>
