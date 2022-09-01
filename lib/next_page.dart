@@ -11,7 +11,7 @@ class NextPage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        // AppBarに表示されるデフォルトのボタンを表示にする!
+        // AppBarに表示されるデフォルトのボタンを非表示にする!
         automaticallyImplyLeading: false,
         actions: [
           // ここで、ログアウトするメソッド実行する!
